@@ -1741,7 +1741,7 @@ ________________________________________
 1.	Use two pointers a and b.
 2.	Traverse each list and switch heads when reaching null.
 3.	They will either meet at the intersection node or null.
-________________________________________
+
  Java Code:
 class ListNode {
     int val;
@@ -1774,7 +1774,7 @@ ________________________________________
 50. Equilibrium Index – Concept & Application
  Concept:
 An equilibrium index in an array is an index i such that the sum of elements before i is equal to the sum of elements after i.
-________________________________________
+
  Application:
 •	In balance point problems
 •	Load balancing in distributed systems
